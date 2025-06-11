@@ -129,6 +129,13 @@ const BarcodeBuilder: React.FC = () => {
       <div className="max-w-7xl mx-auto">
         {/* Header */}
         <div className="text-center mb-8">
+          <div className="absolute left-4 top-1/2 transform -translate-y-1/2" style={{width: "15%"}}>
+            <img 
+              src="https://imagedelivery.net/MKEvMIcAFUaEDbHj7BP86Q/5b404e84-91b7-4e07-269e-0816162e4300/public" 
+              alt="Well Assembled Meetings Logo" 
+              className="w-full h-auto"
+            />
+          </div>
           <h1 className="text-4xl font-bold text-gray-900 mb-2">Barcode Structure Builder</h1>
           <p className="text-lg text-gray-600">Interactive tool for understanding and building barcode components</p>
         </div>
