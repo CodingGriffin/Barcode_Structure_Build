@@ -131,7 +131,7 @@ const BarcodeBuilder: React.FC = () => {
         <div className="relative text-center mb-8">
           <div className="left-4 mt-5 transform -translate-y-1/2" style={{width: "15%"}}>
             <img 
-              src="https://imagedelivery.net/MKEvMIcAFUaEDbHj7BP86Q/5b404e84-91b7-4e07-269e-0816162e4300/public" 
+              src="https://imagedelivery.net/MKEvMIcAFUaEDbHj7BP86Q/55f99260-44f4-430e-19da-235c6405cb00/public" 
               alt="Well Assembled Meetings Logo" 
               className="w-full h-auto"
             />
