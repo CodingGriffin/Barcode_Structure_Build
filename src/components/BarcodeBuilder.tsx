@@ -136,8 +136,6 @@ const BarcodeBuilder: React.FC = () => {
               className="w-full h-auto"
             />
           </div>
-          <h1 className="text-4xl font-bold text-gray-900 mb-2">Barcode Structure Builder</h1>
-          <p className="text-lg text-gray-600">Interactive tool for understanding and building barcode components</p>
         </div>
 
         {/* Barcode Display */}
