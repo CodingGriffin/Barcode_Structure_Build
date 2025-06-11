@@ -201,10 +201,10 @@ const BarcodeBuilder: React.FC = () => {
             onMouseLeave={() => setHoveredComponent(null)}
           >
             {/* Permanent Tooltip */}
-            <div className="mb-4 p-3 bg-amber-50 border border-amber-200 rounded-lg">
+            <div className="mb-4 p-3 bg-blue-50 border border-blue-200 rounded-lg">
               <div className="flex items-start">
-                <AlertCircle className="w-4 h-4 text-amber-600 mt-0.5 mr-2 flex-shrink-0" />
-                <p className="text-sm text-amber-800 font-medium">
+                <AlertCircle className="w-4 h-4 text-blue-600 mt-0.5 mr-2 flex-shrink-0" />
+                <p className="text-sm text-blue-800 font-medium">
                   Please confirm these codes or provide a correct list.
                 </p>
               </div>
@@ -237,10 +237,10 @@ const BarcodeBuilder: React.FC = () => {
             onMouseLeave={() => setHoveredComponent(null)}
           >
             {/* Permanent Tooltip */}
-            <div className="mb-4 p-3 bg-orange-50 border border-orange-200 rounded-lg">
+            <div className="mb-4 p-3 bg-blue-200 border border-blue-200 rounded-lg">
               <div className="flex items-start">
-                <AlertCircle className="w-4 h-4 text-orange-600 mt-0.5 mr-2 flex-shrink-0" />
-                <p className="text-sm text-orange-800 font-medium">
+                <AlertCircle className="w-4 h-4 text-blue-900 mt-0.5 mr-2 flex-shrink-0" />
+                <p className="text-sm text-blue-900 font-medium">
                   Please be advised that only 8 more years are possible with the current barcode schema.
                 </p>
               </div>
@@ -273,12 +273,12 @@ const BarcodeBuilder: React.FC = () => {
             onMouseLeave={() => setHoveredComponent(null)}
           >
             {/* Permanent Tooltip */}
-            <div className="mb-4 p-3 bg-blue-50 border border-blue-200 rounded-lg">
+            <div className="mb-4 p-3 bg-green-50 border border-green-200 rounded-lg">
               <div className="flex items-start">
-                <AlertCircle className="w-4 h-4 text-blue-600 mt-0.5 mr-2 flex-shrink-0" />
-                <p className="text-sm text-blue-800 font-medium">
+                <AlertCircle className="w-4 h-4 text-green-600 mt-0.5 mr-2 flex-shrink-0" />
+                <p className="text-sm text-green-800 font-medium">
                   Will this be specified when every order is placed?
-                   Are these used only once each a year?
+                  Are these used only once each a year?
                 </p>
               </div>
             </div>
