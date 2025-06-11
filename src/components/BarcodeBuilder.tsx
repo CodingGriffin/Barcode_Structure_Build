@@ -129,7 +129,7 @@ const BarcodeBuilder: React.FC = () => {
       <div className="max-w-7xl mx-auto">
         {/* Header */}
         <div className="relative text-center mb-8">
-          <div className="absolute left-4 top-1/2 transform -translate-y-1/2" style={{width: "15%"}}>
+          <div className="left-4 top-1/2 transform -translate-y-1/2" style={{width: "15%"}}>
             <img 
               src="https://imagedelivery.net/MKEvMIcAFUaEDbHj7BP86Q/5b404e84-91b7-4e07-269e-0816162e4300/public" 
               alt="Well Assembled Meetings Logo" 
