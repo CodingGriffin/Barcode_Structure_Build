@@ -278,6 +278,7 @@ const BarcodeBuilder: React.FC = () => {
                 <AlertCircle className="w-4 h-4 text-blue-600 mt-0.5 mr-2 flex-shrink-0" />
                 <p className="text-sm text-blue-800 font-medium">
                   Will this be specified when every order is placed?
+                   Are these used only once each a year?
                 </p>
               </div>
             </div>
@@ -314,6 +315,7 @@ const BarcodeBuilder: React.FC = () => {
                 <AlertCircle className="w-4 h-4 text-purple-600 mt-0.5 mr-2 flex-shrink-0" />
                 <p className="text-sm text-purple-800 font-medium">
                   Please confirm these codes. Will this be specified when the order is placed?
+                  Are these used only once each a year?
                 </p>
               </div>
             </div>
